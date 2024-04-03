@@ -19,7 +19,7 @@ import static org.junit.Assert.fail;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(locations = {"classpath*:spring-test.xml"})
-@Ignore
+//@Ignore
 public class ExampleTest {
 
     @Resource
